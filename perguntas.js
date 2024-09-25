@@ -1,6 +1,6 @@
 criaCartao(
     'Matemática',
-    'Qual a raiz de 16?',
+    'Qual  a raiz de 16?',
     'A raiz quadrada de 16 é 4.'
 )
 
